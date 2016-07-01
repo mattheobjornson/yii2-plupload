@@ -18,7 +18,8 @@ class CoreWidgetAsset extends AssetBundle
 	];
 
 	public $css = [
-		'@vendor/indicalabs/plupload/assets/style.css',
+		//TODO to include a custom CSS with bower assets	
+		//'style.css',
 	];
 
 	public $js = [
