@@ -12,7 +12,7 @@ Demo module
 Add this to your modules config :
 ```php
 	'plupload' => [
-		'class' => 'indica\yii2plupload\Module',
+		'class' => 'indicalabs\plupload\Module',
 	],
 ```
 Then go to `http://your-app/plupload`
@@ -20,7 +20,7 @@ Then go to `http://your-app/plupload`
 Usage
 -----
 ```php
-<?= \indica\yii2plupload\widgets\UIWidget::widget([
+<?= \indicalabs\plupload\widgets\UIWidget::widget([
 	'settings'=>[
 		'url'=>['/controller/action'],
 	],
