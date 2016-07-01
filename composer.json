@@ -1,0 +1,32 @@
+{
+	"name": "indica/yii2-plupload",
+	"description": "Yii2 Plupload extension, provides useful widgets.",
+	"type": "yii2-extension",
+	"keywords": ["yii2", "plupload", "extension", "widget"],
+	"homepage": "https://github.com/indicalabs/yii2-plupload",
+	"license": "MIT",
+	"authors": [
+        {
+            "name": "Venu Narukulla",
+            "email": "venu.narukulla@gmail.com"
+        }
+    ],
+	"require": {
+		"yiisoft/yii2": "~2.0.8",
+	    "bower-asset/plupload": "*"
+	},
+    "require-dev": {
+    	"phpunit/phpunit": "~4.0"
+ 	 },
+ 	 
+    "autoload": {
+        "psr-4": { 
+        	"indicalabs\\plupload\\": "" 
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
