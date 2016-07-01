@@ -1,5 +1,5 @@
 {
-	"name": "indica/yii2-plupload",
+	"name": "indicalabs/yii2-plupload",
 	"description": "Yii2 Plupload extension, provides useful widgets.",
 	"type": "yii2-extension",
 	"keywords": ["yii2", "plupload", "extension", "widget"],
