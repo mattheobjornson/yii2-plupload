@@ -12,11 +12,13 @@
         }
     ],
 	"require": {
-		"yiisoft/yii2": "~2.0.8",
-	    "bower-asset/plupload": "*"
+		"yiisoft/yii2": "~2.0.12",
+	    "npm-asset/plupload": "~2.3.2",
+	    
+	    "npm-asset/vue-plupload": "~1.1.0"
 	},
     "require-dev": {
-    	"phpunit/phpunit": "~4.0"
+    	"phpunit/phpunit": "~6.2.2"
  	 },
  	 
     "autoload": {
