@@ -14,7 +14,6 @@
 	"require": {
 		"yiisoft/yii2": "~2.0.12",
 	    "npm-asset/plupload": "2.3.2",
-	    "npm-asset/vue": "^1.0.28",
 	    "npm-asset/vue-plupload": "1.1.0"
 	},
     "require-dev": {
