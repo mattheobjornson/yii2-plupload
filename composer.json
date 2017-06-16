@@ -13,8 +13,7 @@
     ],
 	"require": {
 		"yiisoft/yii2": "~2.0.12",
-	    "npm-asset/plupload": "2.3.2",
-	    "npm-asset/vue-plupload": "1.1.0"
+	    "npm-asset/plupload": "2.3.2"
 	},
     "require-dev": {
     	"phpunit/phpunit": ">=6.2.2"
