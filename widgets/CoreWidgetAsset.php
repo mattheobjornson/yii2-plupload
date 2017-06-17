@@ -11,14 +11,14 @@ use yii\web\AssetBundle;
  */
 class CoreWidgetAsset extends AssetBundle
 {
-	public $sourcePath = '@bower/plupload';
+	public $sourcePath = '@npm/plupload';
 	
 	public $publishOptions = [
 		//'forceCopy'=> YII_DEBUG,
 	];
 
 	public $css = [
-		//TODO to include a custom CSS with bower assets	
+		//TODO to include a custom CSS with npm assets	
 		//'style.css',
 	];
 
