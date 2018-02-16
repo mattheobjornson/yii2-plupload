@@ -13,7 +13,7 @@ class UIWidgetAsset extends AssetBundle
 {
 	public $sourcePath = '@npm/plupload';
 	public $publishOptions = [
-		//'forceCopy'=> YII_DEBUG,
+		'forceCopy'=> YII_DEBUG,
 	];
 
 	public $css = [

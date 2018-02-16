@@ -20,11 +20,9 @@ class CoreWidgetAsset extends AssetBundle
 	public $css = [
 		//TODO to include a custom CSS with npm assets	
 		//'style.css',
-	    'themes/smoothness/jquery-ui.css',
 	];
 
 	public $js = [
-	    'jquery-ui.js',
 	    'js/moxie.min.js',
 		'js/plupload.min.js',
 		'js/i18n/en.js',
