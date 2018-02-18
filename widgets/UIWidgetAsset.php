@@ -27,7 +27,7 @@ class UIWidgetAsset extends AssetBundle
 	];
 
 	public $depends = [
-		'yii\web\JqueryAsset',
+// 		'yii\web\JqueryAsset',
 		'yii\jui\JuiAsset',
 		'indicalabs\plupload\widgets\CoreWidgetAsset',
 	];
