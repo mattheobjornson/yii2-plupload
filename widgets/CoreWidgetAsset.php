@@ -25,7 +25,7 @@ class CoreWidgetAsset extends AssetBundle
 	public $js = [
 	    'js/moxie.min.js',
 		'js/plupload.min.js',
-		'js/i18n/en.js',
+	//	'js/i18n/en.js',
 	];
 
 	public $depends = [
